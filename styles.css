@@ -46,4 +46,5 @@ footer {
 footer:hover{cursor:pointer;}
 
 #Music_Stop{display: none;}
-#author{font-size:2em; color:skyblue;}
+#author{font-size:2em;}
+a {color: #00a86b;}
